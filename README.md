@@ -52,6 +52,10 @@ One major caveat is that the end-user content creation and editing experience is
 
 For developers, [Sanity](https://www.sanity.io/) offers a variety of starter projects that immediately get you up and running for local development as well as a site fully deployed and configured to work with [Netlify](https://www.netlify.com/) - including a [kitchen sink demo](https://www.sanity.io/create?template=sanity-io%2Fsanity-template-kitchen-sink) for engineers.
 
+As far as hosting goes, [Sanity Studio](https://www.sanity.io/docs/sanity-studio) can be deployed and managed directly by [Sanity](https://www.sanity.io/) or deployed to your system. [Sanity Studio](https://www.sanity.io/docs/sanity-studio) is simply a client-side application that can be hosted anywhere. Its sole purpose is to communicate with the [Sanity content APIs](https://www.sanity.io/docs/datastore).
+
+Images and assets through [Sanity](https://www.sanity.io/) are immediately available through the CDN-distributed Sanity API.
+
 **Special kudos**
 
 As of this writing, [Sanity](https://www.sanity.io/) recently [raised \$9.3 million dollars in Series A funding](https://www.sanity.io/blog/redefining-content-collaboration) as of October 14th, 2020.
