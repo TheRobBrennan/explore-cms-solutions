@@ -62,4 +62,10 @@ As of this writing, [Sanity](https://www.sanity.io/) recently [raised \$9.3 mill
 
 ### Storyblok
 
-[Storyblok](https://www.storyblok.com/)
+[Storyblok](https://www.storyblok.com/) centers itself heavily on the idea of "bloks" - content blocks that are infinitely nestable.
+
+Storyblok says, "Nestable content blocks make content management easy, even within complex layouts."
+
+I say, no. That does **NOT** make content management easy - **ESPECIALLY** when it comes to complicated and complex layouts. The reason one would consider a CMS in the first place.
+
+It is because of this that I feel [Storyblok](https://www.storyblok.com/) leaves a lot to be desired. 🤢
