@@ -38,13 +38,23 @@ You can also run Craft CMS in headless mode - allowing it to be the back-end for
 
 > With Headless Mode enabled, users may only set passwords and verify email addresses via the control panel or controller actions. Be sure to grant "Access the control panel" permission to content editors and administrators that should be able to log into the control panel unless you're providing your own auth forms.
 
-I would give [Craft CMS](https://craftcms.com/) serious consideration. Whether used out of the box or as a headless CMS, [Craft CMS](https://craftcms.com/) has some enticing features and functionality that are worth exploring.
+I would give [Craft CMS](https://craftcms.com/) serious consideration. Whether used out of the box or as a headless CMS, [Craft CMS](https://craftcms.com/) has some enticing features and functionality that are worth exploring - as well as an incredible [Craft Plugin Store](https://plugins.craftcms.com/) to enhance your solution.
 
 My only hesitation in giving this a full out recommendation is that you must host the application yourself. While [pricing](https://craftcms.com/pricing) for [Craft CMS](https://craftcms.com/) is more than reasonable to me (free forever as a solo project; professional plans start at $299 per project for the first year and then $59/year after for updates), **you will need to plan your hosting and infrastructure** accordingly. If the thought of hosting an application is intimidating, [Craft CMS](https://craftcms.com/) does have [preferred hosting providers](https://craftcms.com/hosting).
 
 ### Sanity
 
-[Sanity](https://www.sanity.io/)
+[Sanity](https://www.sanity.io/) is a powerful headless CMS - designed with the developer in mind. The primary pitch offers the ultimate flexibility and a rudimentary editor that can be built upon and customized as desired.
+
+One major caveat is that the end-user content creation and editing experience is rough and unpolished out of the box. While developers can enhance functionality and editor customization with the [Sanity Studio](https://www.sanity.io/docs/sanity-studio) application, this solution does not score high in immediate ease of use.
+
+[https://cdn.sanity.io/images/3do82whm/next/ba70e2ccf32f958597d1f5ad5d97a91643618340-1397x966.png?w=800&fit=max&auto=format](https://cdn.sanity.io/images/3do82whm/next/ba70e2ccf32f958597d1f5ad5d97a91643618340-1397x966.png?w=800&fit=max&auto=format)
+
+For developers, [Sanity](https://www.sanity.io/) offers a variety of starter projects that immediately get you up and running for local development as well as a site fully deployed and configured to work with [Netlify](https://www.netlify.com/) - including a [kitchen sink demo](https://www.sanity.io/create?template=sanity-io%2Fsanity-template-kitchen-sink) for engineers.
+
+**Special kudos**
+
+As of this writing, [Sanity](https://www.sanity.io/) recently [raised \$9.3 million dollars in Series A funding](https://www.sanity.io/blog/redefining-content-collaboration) as of October 14th, 2020.
 
 ### Storyblok
 
